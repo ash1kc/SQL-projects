@@ -1,5 +1,4 @@
-# SQL-projects
-descriptive analysis of Fifa players
+Descriptive analysis of Fifa players
 
 
 
