@@ -3,9 +3,9 @@
 
 I have taken fifa19 dataset and performed analysis on it. And I found some insights
 
-### Tool used to perform analysis- Microsoft SQL Server Management studio
+# Tool used to perform analysis- Microsoft SQL Server Management studio
 
-### SQL functions used-
+# SQL functions used-
 1. basic aggrigation functions
 2. sum,avg,min,max,count
 3. order by,group by
@@ -24,3 +24,5 @@ I have taken fifa19 dataset and performed analysis on it. And I found some insig
 * Real Madrid is the best club based on the total rating
 * 12823 players prefer right and 3820 players prefer left leg
 * Jersey number 10 is the luckiest number based on total wage
+
+#Thank You
