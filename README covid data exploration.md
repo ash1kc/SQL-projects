@@ -5,9 +5,9 @@
 
 I have taken covid19 dataset and performed analysis on it. And I found some insights
 
-### Tool used to perform analysis- Microsoft SQL Server Management studio
+## Tool used to perform analysis- Microsoft SQL Server Management studio
 
-### SQL functions used-
+## SQL functions used-
 1. basic aggrigation functions
 2. sum,avg,min,max,count
 3. order by,group by
