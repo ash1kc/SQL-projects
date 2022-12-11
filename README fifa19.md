@@ -25,4 +25,4 @@ I have taken fifa19 dataset and performed analysis on it. And I found some insig
 * 12823 players prefer right and 3820 players prefer left leg
 * Jersey number 10 is the luckiest number based on total wage
 
-#Thank You
+# Thank You
