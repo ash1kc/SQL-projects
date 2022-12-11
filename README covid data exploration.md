@@ -17,6 +17,13 @@ I have taken covid19 dataset and performed analysis on it. And I found some insi
 
 
 # Key insights-
+* India has highest death date of 3.36 in the month of june 2020.
+* At present there are total 44670646 infected cases and 530586 deaths.
+* In the month of April 2021,1% of India's population got infected.
+* Cyprus has the highest infection count i.e 68% of the Cyprus population got infected.
+* United States has the highest death count i.e. 1077031.
+* If we take the continent, North America has highest total death count
+
 
 
 # Thank You
