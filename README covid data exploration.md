@@ -8,7 +8,7 @@ I have taken covid19 dataset and performed analysis on it. And I found some insi
 ## Tool used to perform analysis- Microsoft SQL Server Management studio
 
 ## SQL functions used-
-1. basic aggrigation functions
+1.  aggrigation functions
 2. sum,avg,min,max,count
 3. order by,group by
 4. logical functions AND,OR
@@ -18,10 +18,10 @@ I have taken covid19 dataset and performed analysis on it. And I found some insi
 
 # Key insights-
 * India has highest death date of 3.36 in the month of june 2020.
-* At present there are total 44670646 infected cases and 530586 deaths.
+* At present there are total 4,46,70,646 infected cases and 5,30,586 deaths.
 * In the month of April 2021,1% of India's population got infected.
 * Cyprus has the highest infection count i.e 68% of the Cyprus population got infected.
-* United States has the highest death count i.e. 1077031.
+* United States has the highest death count i.e. 10,77,031.
 * If we take the continent, North America has highest total death count
 
 
