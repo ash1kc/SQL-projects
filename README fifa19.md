@@ -6,7 +6,7 @@ I have taken fifa19 dataset and performed analysis on it. And I found some insig
 # Tool used to perform analysis- Microsoft SQL Server Management studio
 
 # SQL functions used-
-1. basic aggrigation functions
+1. aggrigation functions
 2. sum,avg,min,max,count
 3. order by,group by
 4. logical functions AND,OR
